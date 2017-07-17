@@ -1,6 +1,6 @@
-# benchmark your tiny cases
+# Benchmark Your Tiny Cases
 
-## install
+## Install
 
 ```bash
 npm i node-benchmark-runner -g
@@ -8,7 +8,7 @@ bm yourcase.js
 ```
 
 
-## Useage
+## Usage
 
 ```javascript
 
@@ -26,7 +26,7 @@ benchmark({
     }
 }, 1e6)
 ```
-save as test.js
+save as test.js.
 
 run `bm test.js` will output:
 
