@@ -3,7 +3,7 @@
 ## install
 
 ```bash
-npm i node-benchmark-runner
+npm i node-benchmark-runner -g
 bm yourcase.js
 ```
 
